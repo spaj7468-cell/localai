@@ -1,0 +1,71 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ouri.localai"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:3:5-67
+11-->/tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:3:22-64
+12
+13    <application
+13-->/tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:4:5-19:19
+14        android:allowBackup="false"
+14-->/tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:8:9-36
+15        android:extractNativeLibs="false"
+16        android:icon="@drawable/ic_ouri"
+16-->/tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:6:9-41
+17        android:label="@string/app_name"
+17-->/tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:5:9-41
+18        android:largeHeap="true"
+18-->/tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:9:9-33
+19        android:theme="@style/Theme.OuRiLocal" >
+19-->/tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:7:9-47
+20        <activity
+20-->/tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:10:9-18:20
+21            android:name="com.ouri.localai.MainActivity"
+21-->/tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:11:13-41
+22            android:exported="true"
+22-->/tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:12:13-36
+23            android:windowSoftInputMode="adjustResize" >
+23-->/tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:13:13-55
+24            <intent-filter>
+24-->/tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:14:13-17:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->/tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:15:17-69
+25-->/tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:15:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->/tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:16:17-77
+27-->/tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:16:27-74
+28            </intent-filter>
+29        </activity>
+30        <!--
+31             Applications that target Android S+ require explicit declaration of
+32             any referenced vendor-provided libraries.
+33        -->
+34        <uses-native-library
+34-->[com.google.mediapipe:tasks-genai:0.10.35] /root/.gradle/caches/transforms-4/75b3fe5f8955a89c637df6bbe2d729af/transformed/tasks-genai-0.10.35/AndroidManifest.xml:15:9-17:40
+35            android:name="libOpenCL.so"
+35-->[com.google.mediapipe:tasks-genai:0.10.35] /root/.gradle/caches/transforms-4/75b3fe5f8955a89c637df6bbe2d729af/transformed/tasks-genai-0.10.35/AndroidManifest.xml:16:13-40
+36            android:required="false" />
+36-->[com.google.mediapipe:tasks-genai:0.10.35] /root/.gradle/caches/transforms-4/75b3fe5f8955a89c637df6bbe2d729af/transformed/tasks-genai-0.10.35/AndroidManifest.xml:17:13-37
+37        <uses-native-library
+37-->[com.google.mediapipe:tasks-genai:0.10.35] /root/.gradle/caches/transforms-4/75b3fe5f8955a89c637df6bbe2d729af/transformed/tasks-genai-0.10.35/AndroidManifest.xml:15:9-17:40
+38            android:name="libOpenCL-car.so"
+38-->[com.google.mediapipe:tasks-genai:0.10.35] /root/.gradle/caches/transforms-4/75b3fe5f8955a89c637df6bbe2d729af/transformed/tasks-genai-0.10.35/AndroidManifest.xml:16:13-40
+39            android:required="false" />
+39-->[com.google.mediapipe:tasks-genai:0.10.35] /root/.gradle/caches/transforms-4/75b3fe5f8955a89c637df6bbe2d729af/transformed/tasks-genai-0.10.35/AndroidManifest.xml:17:13-37
+40        <uses-native-library
+40-->[com.google.mediapipe:tasks-genai:0.10.35] /root/.gradle/caches/transforms-4/75b3fe5f8955a89c637df6bbe2d729af/transformed/tasks-genai-0.10.35/AndroidManifest.xml:15:9-17:40
+41            android:name="libOpenCL-pixel.so"
+41-->[com.google.mediapipe:tasks-genai:0.10.35] /root/.gradle/caches/transforms-4/75b3fe5f8955a89c637df6bbe2d729af/transformed/tasks-genai-0.10.35/AndroidManifest.xml:16:13-40
+42            android:required="false" />
+42-->[com.google.mediapipe:tasks-genai:0.10.35] /root/.gradle/caches/transforms-4/75b3fe5f8955a89c637df6bbe2d729af/transformed/tasks-genai-0.10.35/AndroidManifest.xml:17:13-37
+43    </application>
+44
+45</manifest>

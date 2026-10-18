@@ -1,0 +1,4 @@
+#Sun Oct 18 08:10:06 UTC 2026
+base.0=/tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

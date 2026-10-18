@@ -1,0 +1,70 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.mediapipe:tasks-genai:0.10.35] /root/.gradle/caches/transforms-4/75b3fe5f8955a89c637df6bbe2d729af/transformed/tasks-genai-0.10.35/AndroidManifest.xml:2:1-26:12
+	package
+		INJECTED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:3:22-64
+application
+ADDED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:4:5-19:19
+INJECTED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:4:5-19:19
+MERGED from [com.google.mediapipe:tasks-genai:0.10.35] /root/.gradle/caches/transforms-4/75b3fe5f8955a89c637df6bbe2d729af/transformed/tasks-genai-0.10.35/AndroidManifest.xml:9:5-24:19
+MERGED from [com.google.mediapipe:tasks-genai:0.10.35] /root/.gradle/caches/transforms-4/75b3fe5f8955a89c637df6bbe2d729af/transformed/tasks-genai-0.10.35/AndroidManifest.xml:9:5-24:19
+	android:extractNativeLibs
+		INJECTED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:5:9-41
+	android:largeHeap
+		ADDED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:9:9-33
+	android:icon
+		ADDED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:6:9-41
+	android:allowBackup
+		ADDED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:8:9-36
+	android:theme
+		ADDED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:7:9-47
+activity#com.ouri.localai.MainActivity
+ADDED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:10:9-18:20
+	android:windowSoftInputMode
+		ADDED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:13:13-55
+	android:exported
+		ADDED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:11:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml
+INJECTED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml
+MERGED from [com.google.mediapipe:tasks-genai:0.10.35] /root/.gradle/caches/transforms-4/75b3fe5f8955a89c637df6bbe2d729af/transformed/tasks-genai-0.10.35/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.mediapipe:tasks-genai:0.10.35] /root/.gradle/caches/transforms-4/75b3fe5f8955a89c637df6bbe2d729af/transformed/tasks-genai-0.10.35/AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		INJECTED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/AndroidManifest.xml
+uses-native-library
+ADDED from [com.google.mediapipe:tasks-genai:0.10.35] /root/.gradle/caches/transforms-4/75b3fe5f8955a89c637df6bbe2d729af/transformed/tasks-genai-0.10.35/AndroidManifest.xml:15:9-17:40
+	android:required
+		ADDED from [com.google.mediapipe:tasks-genai:0.10.35] /root/.gradle/caches/transforms-4/75b3fe5f8955a89c637df6bbe2d729af/transformed/tasks-genai-0.10.35/AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from [com.google.mediapipe:tasks-genai:0.10.35] /root/.gradle/caches/transforms-4/75b3fe5f8955a89c637df6bbe2d729af/transformed/tasks-genai-0.10.35/AndroidManifest.xml:16:13-40

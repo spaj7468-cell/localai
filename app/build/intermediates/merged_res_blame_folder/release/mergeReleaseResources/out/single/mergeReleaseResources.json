@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/root/.gradle/daemon/8.7/com.ouri.localai.app-release-4:/drawable_ic_send.xml.flat",
+        "source": "/root/.gradle/daemon/8.7/com.ouri.localai.app-main-5:/drawable/ic_send.xml"
+    },
+    {
+        "merged": "/root/.gradle/daemon/8.7/com.ouri.localai.app-release-4:/drawable_bg_bubble_user.xml.flat",
+        "source": "/root/.gradle/daemon/8.7/com.ouri.localai.app-main-5:/drawable/bg_bubble_user.xml"
+    },
+    {
+        "merged": "/root/.gradle/daemon/8.7/com.ouri.localai.app-release-4:/drawable_ic_chat.xml.flat",
+        "source": "/root/.gradle/daemon/8.7/com.ouri.localai.app-main-5:/drawable/ic_chat.xml"
+    },
+    {
+        "merged": "/root/.gradle/daemon/8.7/com.ouri.localai.app-release-4:/drawable_bg_card.xml.flat",
+        "source": "/root/.gradle/daemon/8.7/com.ouri.localai.app-main-5:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "/root/.gradle/daemon/8.7/com.ouri.localai.app-release-4:/drawable_bg_input.xml.flat",
+        "source": "/root/.gradle/daemon/8.7/com.ouri.localai.app-main-5:/drawable/bg_input.xml"
+    },
+    {
+        "merged": "/root/.gradle/daemon/8.7/com.ouri.localai.app-release-4:/drawable_ic_models.xml.flat",
+        "source": "/root/.gradle/daemon/8.7/com.ouri.localai.app-main-5:/drawable/ic_models.xml"
+    },
+    {
+        "merged": "/root/.gradle/daemon/8.7/com.ouri.localai.app-release-4:/drawable_bg_send.xml.flat",
+        "source": "/root/.gradle/daemon/8.7/com.ouri.localai.app-main-5:/drawable/bg_send.xml"
+    },
+    {
+        "merged": "/root/.gradle/daemon/8.7/com.ouri.localai.app-release-4:/drawable_bg_bubble_ai.xml.flat",
+        "source": "/root/.gradle/daemon/8.7/com.ouri.localai.app-main-5:/drawable/bg_bubble_ai.xml"
+    },
+    {
+        "merged": "/root/.gradle/daemon/8.7/com.ouri.localai.app-release-4:/drawable_ic_ouri.xml.flat",
+        "source": "/root/.gradle/daemon/8.7/com.ouri.localai.app-main-5:/drawable/ic_ouri.xml"
+    },
+    {
+        "merged": "/root/.gradle/daemon/8.7/com.ouri.localai.app-release-4:/layout_item_model.xml.flat",
+        "source": "/root/.gradle/daemon/8.7/com.ouri.localai.app-main-5:/layout/item_model.xml"
+    },
+    {
+        "merged": "/root/.gradle/daemon/8.7/com.ouri.localai.app-release-4:/layout_activity_main.xml.flat",
+        "source": "/root/.gradle/daemon/8.7/com.ouri.localai.app-main-5:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ouri.localai.app-release-4:/layout_activity_main.xml.flat",
+        "source": "com.ouri.localai.app-main-5:/layout/activity_main.xml"
+    }
+]

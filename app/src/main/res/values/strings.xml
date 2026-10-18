@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OuRi Local AI</string>
+    <string name="tab_chat">Чат</string>
+    <string name="tab_models">Модели</string>
+    <string name="no_model">Модель не выбрана</string>
+    <string name="welcome">Локальный ИИ OuRi. Сервер не нужен: скачай модель во вкладке «Модели» — и чат работает прямо на телефоне, даже без интернета.</string>
+    <string name="pick_model_first">Сначала скачайте и выберите модель во вкладке «Модели»</string>
+    <string name="model_missing">Модель не скачана</string>
+    <string name="loading_model">Загружаю модель в память телефона… первый запуск может занять до минуты</string>
+    <string name="model_ready">Модель %s готова</string>
+    <string name="gen_error">Ошибка: %s</string>
+    <string name="models_note">Модели открытые и бесплатные (Hugging Face). Скачивание идёт напрямую в телефон и занимает время — от пары минут до получаса в зависимости от размера и сети. После загрузки чат работает офлайн.\n\nGemma 2 снята Google с публичных on-device сборок, поэтому в каталоге Gemma 3n — прямое продолжение этой линейки.</string>
+    <string name="download">Скачать</string>
+    <string name="cancel">Отменить</string>
+    <string name="downloaded">Скачана</string>
+    <string name="delete">Удалить</string>
+    <string name="downloading">Скачивание…</string>
+    <string name="starting">Подключение к серверу…</string>
+    <string name="progress">%1$d%% · %2$d из %3$d МБ</string>
+    <string name="size_mb">Не скачана · ~%d МБ</string>
+    <string name="ready_size">Скачана · ~%d МБ</string>
+    <string name="active">активна</string>
+    <string name="done_hint">Готово. Нажмите на карточку модели, чтобы сделать её активной</string>
+    <string name="download_first">Сначала скачайте модель</string>
+    <string name="model_active">Активная модель: %s</string>
+    <string name="hint_input">Сообщение…</string>
+    <string name="send">Отправить</string>
+</resources>

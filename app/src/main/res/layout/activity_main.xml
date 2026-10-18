@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical" android:background="@color/bg">
+
+    <TextView android:id="@+id/modelLabel"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:padding="12dp" android:textColor="@color/muted" android:textSize="12sp"
+        android:letterSpacing="0.08" android:background="@color/surface" />
+
+    <FrameLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+
+        <LinearLayout android:id="@+id/chatPanel"
+            android:layout_width="match_parent" android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ScrollView android:id="@+id/chatScroll"
+                android:layout_width="match_parent" android:layout_height="0dp"
+                android:layout_weight="1" android:fillViewport="true">
+                <LinearLayout android:id="@+id/chatLog"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:orientation="vertical" android:padding="10dp" />
+            </ScrollView>
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:orientation="horizontal" android:padding="10dp"
+                android:background="@color/surface" android:gravity="center_vertical">
+                <EditText android:id="@+id/inputText"
+                    android:layout_width="0dp" android:layout_height="wrap_content"
+                    android:layout_weight="1" android:hint="@string/hint_input"
+                    android:textColor="@color/text" android:textColorHint="@color/muted"
+                    android:background="@drawable/bg_input" android:padding="12dp"
+                    android:maxLines="4" android:inputType="textCapSentences|textMultiLine" />
+                <ImageButton android:id="@+id/sendBtn"
+                    android:layout_width="46dp" android:layout_height="46dp"
+                    android:layout_marginStart="8dp" android:contentDescription="@string/send"
+                    android:src="@drawable/ic_send" android:background="@drawable/bg_send"
+                    android:scaleType="centerInside" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <ScrollView android:id="@+id/modelsPanel"
+            android:layout_width="match_parent" android:layout_height="match_parent"
+            android:visibility="gone">
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:orientation="vertical" android:padding="12dp">
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:text="@string/models_note" android:textColor="@color/muted"
+                    android:textSize="12.5sp" android:lineSpacingExtra="3dp"
+                    android:padding="4dp" android:layout_marginBottom="10dp" />
+                <LinearLayout android:id="@+id/modelsList"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:orientation="vertical" />
+            </LinearLayout>
+        </ScrollView>
+
+    </FrameLayout>
+
+    <LinearLayout android:layout_width="match_parent" android:layout_height="52dp"
+        android:orientation="horizontal" android:background="@color/surface">
+        <TextView android:id="@+id/tabChat" android:layout_width="0dp" android:layout_height="match_parent"
+            android:layout_weight="1" android:gravity="center" android:text="@string/tab_chat"
+            android:textSize="14sp" android:textStyle="bold" android:letterSpacing="0.06"
+            android:background="@color/surface2" android:textColor="@color/text" />
+        <TextView android:id="@+id/tabModels" android:layout_width="0dp" android:layout_height="match_parent"
+            android:layout_weight="1" android:gravity="center" android:text="@string/tab_models"
+            android:textSize="14sp" android:textStyle="bold" android:letterSpacing="0.06"
+            android:background="@color/surface" android:textColor="@color/muted" />
+    </LinearLayout>
+</LinearLayout>

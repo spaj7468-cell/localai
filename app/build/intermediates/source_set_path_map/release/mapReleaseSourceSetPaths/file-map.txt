@@ -1,0 +1,7 @@
+com.ouri.localai.app-pngs-0 /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/build/generated/res/pngs/release
+com.ouri.localai.app-resValues-1 /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/build/generated/res/resValues/release
+com.ouri.localai.app-packageReleaseResources-2 /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.ouri.localai.app-packageReleaseResources-3 /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.ouri.localai.app-release-4 /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/build/intermediates/merged_res/release/mergeReleaseResources
+com.ouri.localai.app-main-5 /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/main/res
+com.ouri.localai.app-release-6 /tmp/arena/tenants/c4a939da-0e4f-4e83-a565-32d0ce3e1f0f/sessions/1952e09c-0876-444c-9ae8-4075d5da8bf4/workspace/work/localai/app/src/release/res
